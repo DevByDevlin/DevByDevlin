@@ -1,4 +1,4 @@
-p### Welcome to my GitHub my github. 
+# Welcome to my GitHub my github. 
 ## My name is Paul. 👋
 
 ## I am a husband, father, veteran of the USMC and U.S. Army, and Software Engineer.
@@ -10,18 +10,23 @@ p### Welcome to my GitHub my github.
 
 ### Connect with me
 
+[<img align=left style='margin-right:25px' src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" />](https://www.linkedin.com/in/pmdevlin/) [<img align=left style='margin-right:25px' src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" width="50" height="50" />](https://www.instagram.com/pawl_89/) 
 
+<br>
+<br>
+<br>
 
-![174857](<img width="200" height="200" src="https://user-images.githubusercontent.com/92461668/156898377-1788adc4-85f7-4eed-93f2-efc137df1e7a.png" alt="my banner”>)
+### Languages and Tools
 
-
-
-
-
-
-
-[1]: www.linkedin.com/in/pmdevlin
-
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons-png.flaticon.com/512/919/919825.png"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1646516903~hmac=a55c6fdc7032466b607866690088a573"/>]()
+[<img width='30' style='margin-top:5px; margin-right:10px' src="https://cdn-icons.flaticon.com/png/512/4319/premium/4319172.png?token=exp=1646517131~hmac=a32738deece8bcd9bdf0c13142714e12"/>]()
 
 
 
