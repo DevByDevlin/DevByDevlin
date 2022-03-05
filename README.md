@@ -1,4 +1,4 @@
-### Welcome to my GitHub my github. 
+p### Welcome to my GitHub my github. 
 ## My name is Paul. 👋
 
 ## I am a husband, father, veteran of the USMC and U.S. Army, and Software Engineer.
@@ -10,7 +10,9 @@
 
 ### Connect with me
 
-[<img alt="alt_text" width="40px" src="images/image.PNG" />]([1])
+
+
+<img width="50"height="50"src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner”>
 
 
 
