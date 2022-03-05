@@ -9,8 +9,8 @@
 - 🎡 fun fact: I love movies, some people call me a nerd. I say I appreciate unpredictable story lines.
 
 ### Connect with me
-[![Linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)][1]
 
+[<img alt="alt_text" width="40px" src="images/image.PNG" />]([1])
 
 
 
