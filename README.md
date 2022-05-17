@@ -5,8 +5,8 @@
 - 🔭 I am currently working on a study application to better store online resources for learning tech. 
 - 🌱 I am currently learning everything I can get my hands on about software engineering
 - 🙋 I am looking for work in the digital space with growth opportunity's to advance my knowledge.
-- ⌛ 2022 Goals: Complete my immersive program and find work as a software engineer.
-- 🎡 fun fact: I love movies, some people call me a nerd. I say I appreciate unpredictable story lines.
+- ⌛ 2022 Goals: find work as a software engineer in a company that I believe in.
+- 🎡 fun fact: I love movies, some people call me a nerd. I say I appreciate unpredictable story lines. STARWARS...
 
 ### Connect with me
 
