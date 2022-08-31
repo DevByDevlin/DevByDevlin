@@ -2,11 +2,11 @@
 ## My name is Paul. 👋
 
 ## I am a husband, father, veteran of the USMC and U.S. Army, and Software Engineer.
-- 🔭 I am currently working on a study application to better store online resources for learning tech. 
-- 🌱 I am currently learning everything I can get my hands on about software engineering
-- 🙋 I am looking for work in the digital space with growth opportunity's to advance my knowledge.
-- ⌛ 2022 Goals: find work as a software engineer in a company that I believe in.
-- 🎡 fun fact: I love movies, some people call me a nerd. I say I appreciate unpredictable story lines. STARWARS...
+- 🔭 I am currently working on a portfolio site to showcase my skill sets.
+- 🌱 I am currently learning Java and spring boot with a sprinkling of other things.
+- 🙋 I am working for Booz Allen Hamilton as a Senior Consultant Software Developer.
+- ⌛ 2022 Goals: To find awesome mentors and be a part of awesome projects.
+- 🎡 fun fact about me: Star Wars is an obsession. Imagine the level of that worlds software engineers!!! SCARY!!!
 
 ### Connect with me
 
