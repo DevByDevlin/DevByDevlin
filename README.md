@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Paul
 
-## 🧑‍💻 Software Engineer | Veteran | Knowledge Manager | AI Task Force
+## 🧑‍💻 Software Engineer | Veteran | Knowledge Manager | O365 Administrator | Power Platform Developer
 
 I'm a husband, father, U.S. Marine Corps and Army veteran, and a Software Engineer passionate about building useful and impactful software. I currently work at **NORAD & USNORTHCOM** as a **Software Engineer** and **Knowledge Manager**, supporting national defense efforts through innovative technical solutions and strategic information flow.
 
 ---
 
 ### 🔥 What I'm Up To
-- 🚀 Leading efforts in Government AI initiatives as part of a federal AI Task Force
-- 🛠️ Managing and developing five custom applications supporting high-priority teams
-- 🧠 Learning more about **AI/ML**, **Microsoft Power Platform**, and expanding my **Python** toolset
-- ⚙️ Always refining my full-stack dev skills with a focus on clean architecture and performance
+- 🚀 Leading efforts in Government digital transformation  
+- 🛠️ Managing and developing five custom applications supporting high-priority teams  
+- 🧠 Learning more about **AI/ML**, **Microsoft Power Platform**, and expanding my **Python** toolset  
+- ⚙️ Always refining my full-stack dev skills with a focus on clean architecture and performance  
 
 ---
 
@@ -39,27 +39,8 @@ I'm a husband, father, U.S. Marine Corps and Army veteran, and a Software Engine
 
 ### 🤝 Let's Connect
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50">](https://www.linkedin.com/in/pmdevlin/)
-
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">](https://www.linkedin.com/in/pmdevlin/)
 
 ---
 
 📫 *Let’s collaborate, build cool things, and explore what’s next.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
