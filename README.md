@@ -39,10 +39,7 @@ I'm a husband, father, U.S. Marine Corps and Army veteran, and a Software Engine
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmdevlin/)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30">](https://www.linkedin.com/in/pmdevlin/)
-
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50">](https://www.linkedin.com/in/pmdevlin/)
 
 
 ---
