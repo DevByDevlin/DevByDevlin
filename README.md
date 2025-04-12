@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Paul
 
-## 🧑‍💻 Software Engineer | Veteran | Knowledge Management Lead | AI Task Force Lead
+## 🧑‍💻 Software Engineer | Veteran | Knowledge Manager | AI Task Force
 
-I'm a husband, father, U.S. Marine Corps and Army veteran, and a Software Engineer passionate about building useful and impactful software. I currently work at **Booz Allen Hamilton** as a **Senior Consultant Software Developer**, leading multiple projects and applications in secure environments.
+I'm a husband, father, U.S. Marine Corps and Army veteran, and a Software Engineer passionate about building useful and impactful software. I currently work at **NORAD & USNORTHCOM** as a **Software Engineer** and **Knowledge Manager**, supporting national defense efforts through innovative technical solutions and strategic information flow.
 
 ---
 
